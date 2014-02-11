@@ -45,7 +45,7 @@ Todo el trabajo realizado en clase y/o en casa, debe ser subido a [GitHub] y, pa
 Para subir nota, proponemos las siguientes tareas para casa:
 
 * Agregar soporte para pestañas
-* Añadir opciones en Menú contextual
+* Añadir opciones en menú contextual
 
 *Nota: Se valorará el simple hecho de haberlo intentado, no tiene que ser todo perfecto, lo importante es que aprendas a "buscarte la vida" con la documentación de QT al tiempo que practicas el desarrollo con este framework.* 
 
