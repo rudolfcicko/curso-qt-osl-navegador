@@ -1,0 +1,6 @@
+moc_*
+*.pro.user
+*.o
+*~
+qrc_*
+Qt-Navegador-exe
