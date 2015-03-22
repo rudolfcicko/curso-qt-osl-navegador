@@ -3,8 +3,8 @@
 
 int main(int argc, char *argv[])
 {
-    QCoreApplication::setOrganizationName("Igeko");
-    QCoreApplication::setOrganizationDomain("igeko.es");
+    QCoreApplication::setOrganizationName("Brutal Logic");
+    QCoreApplication::setOrganizationDomain("youtube.com");
     QCoreApplication::setApplicationName("WebBrowser");
 
 

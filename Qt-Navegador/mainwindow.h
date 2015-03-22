@@ -3,10 +3,13 @@
 
 #include <QMainWindow>
 #include "webbrowser.h"
+#include <QToolBar>
+
+
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
-
+    //QToolBar*   toolbar_;
 public:
     MainWindow(QWidget *parent = 0);
     ~MainWindow();
